@@ -26,6 +26,11 @@ sudo apt install git -y
 git config --global user.email "tiago.a.takeda@gmail.com"
 git config --global user.name "tiagotakeda"
 
+
+##	SYNAPTIC
+sudo apt install synaptic -y
+
+
 ##	SPOTIFY
 sudo snap install spotify
 
