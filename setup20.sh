@@ -21,6 +21,9 @@ sudo apt install -y build-essential libssl-dev libffi-dev python3-dev
 sudo apt install -y python3-venv
 sudo apt install python-pytest -y
 
+## CURL
+sudo apt install python3-pycurl
+
 ##	GIT
 sudo apt install git -y
 git config --global user.email "tiago.a.takeda@gmail.com"
